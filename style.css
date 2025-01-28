@@ -82,10 +82,11 @@ input[type="radio"]{
     margin-left: 5px;
     background-color: #1e2a38;
     margin-bottom: 15px;
+    font-size: 20px;
   }
   #term{
     margin-left: 7px;
-    margin-top: -44px;
+    margin-top: -61px;
   }
 .right-section p{
     text-align: center;
@@ -94,7 +95,7 @@ input[type="radio"]{
 button{
     font-size: 16px;
     background-color: cyan;
-    color: white;
+    color: rgb(30,42,56);
     border: none;
     cursor: pointer;
     position: absolute;
@@ -133,8 +134,8 @@ body{
     background-color: rgb(128, 141, 137);
 }
 button:hover{
-    background-color: aquamarine;
-    color: black;
+    background-color: white;
+    color: rgb(30,42,56);
     transition: 1s;
 }
 
