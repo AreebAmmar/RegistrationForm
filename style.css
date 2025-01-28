@@ -16,6 +16,7 @@ html {
     height:700px;
     background-color: rgb(55, 216, 216);
     display: inline-block;
+    background: url('images.jpg');
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     background: url(images.jpg);
