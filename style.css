@@ -5,6 +5,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top:20px;
 }
 .container{
     display: flex;
@@ -146,7 +147,6 @@ button:hover{
 .right-section{
     width: 358px;
     padding-left: 140px;
-    height:830px;
 }
 button{
     width: 354px;
