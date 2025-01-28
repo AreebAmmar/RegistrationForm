@@ -77,7 +77,7 @@ input[type="radio"]{
     padding: 15px;
     border: 2px solid #334861;
     border-radius: 5px;
-    color: #1e2a38;
+    color: white;
     margin-left: 5px;
     background-color: #1e2a38;
     margin-bottom: 15px;
@@ -103,6 +103,12 @@ button{
     padding: 10px;        }
 #submit-button{
     font-size: 20px;
+}
+.radio-button{
+    margin-bottom: -6px;
+}
+#maleradio,#femaleradio{
+    color:white
 }
 .right-section{
     padding-left: 50px;
@@ -168,6 +174,8 @@ button{
 .right-section{
     width: 380px;
     padding-left: 40px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 button{
     width: 374px;
